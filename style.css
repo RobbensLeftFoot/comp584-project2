@@ -1,6 +1,6 @@
-/* Border box declaration 
-https://www.paulirish.com/2012/box-sizing-border-box-ftw/ */
-html {
+
+html 
+{
   box-sizing: border-box;
 }
 
